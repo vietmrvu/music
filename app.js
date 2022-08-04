@@ -12,11 +12,11 @@ const progressBar = document.querySelector("#progress-bar");
 var width = screen.width
 let songIndex = 0;
 let songs = [
-  ".holo.mp3",
-  ".home.mp3",
-  ".spark.mp3",
-  ".summer.mp3",
-  ".rickroll.mp3",
+  "holo.mp3",
+  "home.mp3",
+  "spark.mp3",
+  "summer.mp3",
+  "rickroll.mp3",
 ];
 let thumbnails = [
   "https://cdn.dribbble.com/users/3960463/screenshots/13952774/media/1083c2b91054c7d7ee7c0bd47d60d5e0.png?compress=1&resize=800x600",
